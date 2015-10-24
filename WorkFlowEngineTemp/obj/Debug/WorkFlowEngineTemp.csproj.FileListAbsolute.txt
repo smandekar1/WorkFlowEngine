@@ -1,0 +1,6 @@
+c:\users\sam.sam11-pc\documents\visual studio 2015\Projects\WorkFlowEngineTemp\WorkFlowEngineTemp\bin\Debug\WorkFlowEngineTemp.exe.config
+c:\users\sam.sam11-pc\documents\visual studio 2015\Projects\WorkFlowEngineTemp\WorkFlowEngineTemp\bin\Debug\WorkFlowEngineTemp.exe
+c:\users\sam.sam11-pc\documents\visual studio 2015\Projects\WorkFlowEngineTemp\WorkFlowEngineTemp\bin\Debug\WorkFlowEngineTemp.pdb
+c:\users\sam.sam11-pc\documents\visual studio 2015\Projects\WorkFlowEngineTemp\WorkFlowEngineTemp\obj\Debug\WorkFlowEngineTemp.csprojResolveAssemblyReference.cache
+c:\users\sam.sam11-pc\documents\visual studio 2015\Projects\WorkFlowEngineTemp\WorkFlowEngineTemp\obj\Debug\WorkFlowEngineTemp.exe
+c:\users\sam.sam11-pc\documents\visual studio 2015\Projects\WorkFlowEngineTemp\WorkFlowEngineTemp\obj\Debug\WorkFlowEngineTemp.pdb
